@@ -1,4 +1,4 @@
-//: # Swift Basics by Platzi (redacted by @pandres95)
+//: # Swift Basics by [Platzi](https://platzi.com/) (playground authored by [@pandres95](https://github.com/pandres95))
 //: ## Chapter 1: Variables and Constants
 //: ### 1. Variables
 //: ```var <name> [: Type [= value]]|[= value]```
